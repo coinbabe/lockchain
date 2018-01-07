@@ -2,7 +2,8 @@
 
 ## Timeline
 
-1998. Szabo designs mechanism for decentralized digital currency called "Bit Gold".
+1999. Szabo designs mechanism for decentralized digital currency called "Bit Gold".
+
 
 ## DOMAIN
 
